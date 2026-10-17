@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1791118577149",
+    "name": "Филипп",
+    "nickname": "FilippH",
+    "email": "filippshelkeev154@gmail.com",
+    "passwordHash": "$2b$10$l43G5xk7WWCJeLEJ.wwxPuTWcOnOQRMKonyWuPaWkkvQ8t2H/WIS6",
+    "createdAt": "2026-10-04T12:56:17.149Z",
+    "friends": [
+      "1791123014987",
+      "1791125554211",
+      "1792213300580"
+    ],
+    "avatar": null
+  },
+  {
+    "id": "1791123014987",
+    "name": "Пётор",
+    "nickname": "petr",
+    "email": "petr@test.ru",
+    "passwordHash": "$2b$10$lNNIX.9QWTyj8zTfOh1Md.J8.KhTtzdmgHxqBOW8rDFS0O.7YX.Jy",
+    "createdAt": "2026-10-04T14:10:14.987Z",
+    "friends": [
+      "1791118577149",
+      "1791125554211"
+    ]
+  },
+  {
+    "id": "1791125554211",
+    "name": "олегик",
+    "nickname": "gig@chat2024",
+    "email": "olegik@test.ru",
+    "passwordHash": "$2b$10$9kWHpyAUQlqztLeFv1bQn.W0aPdgK9aqm91ea7GijKkyR2eAqC6Ja",
+    "friends": [
+      "1791118577149",
+      "1791123014987"
+    ],
+    "createdAt": "2026-10-04T14:52:34.213Z"
+  },
+  {
+    "id": "1792213300580",
+    "name": "Мария",
+    "nickname": "Mari",
+    "phone": "89500608432",
+    "email": "mariasushkova@yandex.ru",
+    "passwordHash": "$2b$10$FvWYGjw.B5JXR7Tw/wha0.Pdx2pmQWUaChrK2e7ziPfjQ8NtXg7X6",
+    "friends": [
+      "1791118577149"
+    ],
+    "avatar": null,
+    "createdAt": "2026-10-17T05:01:40.580Z"
+  }
+]
